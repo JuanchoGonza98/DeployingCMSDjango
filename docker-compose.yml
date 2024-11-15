@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   web:
-    image: juanchogonza98/csm_dockerizado:latest
+    image: juanchogonza98/csm_dockerizado_dev:latest
     container_name: csm_web
     environment:
       DJANGO_SETTINGS_MODULE: project.settings
