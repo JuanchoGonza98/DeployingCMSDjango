@@ -1,0 +1,7 @@
+La idea Aqui es poder deployar en cualquier lugar con docker y docker-compose el gestor de contenidos WEB escrito en Python con Django el cual la imagen ya ha sido subida en mi DockerHub y aqui 
+dejare todas las directrices para poder hacerlos. Es sencillo
+Se conforma de los siguientes pasos:
+- Instalar docker y docker-compose en tu maquina
+- Copiar los archivos docker-compose.yml 
+- Ejecutar docker compose up -d (Estando en el directorio donde este el archivo .yml)
+- Listo ya puedes utilizarlo
